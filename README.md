@@ -1,2 +1,2 @@
-# aguin467.github.io
-A place for my projects and personal blog
+# AGuin
+This site hosts my persoanl blog and projects
