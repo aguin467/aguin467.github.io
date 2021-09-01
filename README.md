@@ -1,5 +1,4 @@
-# Blog
-This site hosts my persoanl blog and projects.
+ # This site hosts my personal blog and projects
 
 # Projects
 
